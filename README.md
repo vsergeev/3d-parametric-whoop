@@ -35,6 +35,10 @@ A parametric whoop frame and canopy. Canopy has an adjustable camera tilt of 0 t
 
 **Recommended Support Settings (PrusaSlicer):** Avoid Crossing Perimeters: True, Style: Snug, Top contact Z distance: 0.20 (ASA), 0.23 (PETG), 0.25 (Hard TPU), Pattern Spacing: 3mm, Top interface layers: 4, XY separation between an object and its support: 100% (ASA, PETG), 250% (Hard TPU)
 
+**Printables**: https://www.printables.com/model/1402069-parametric-whoop
+
+**Thingiverse**: https://www.thingiverse.com/thing:7133627
+
 ## Builds
 
 ### 75mm BETAFPV Matrix 1S 5in1 (Analog VTX) + BETAFPV C03 Camera
