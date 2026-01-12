@@ -17,7 +17,7 @@
 
 A parametric whoop frame and canopy. Canopy has an adjustable camera tilt of 0 to 40 degrees, secured with two M2 bolts. Canopy mounts to the frame with M1.4 bolts and captured nuts. Example builds for 75mm and 65mm analog and digital whoops provided. Made with OpenSCAD.
 
-Strong impacts may break the motor struts, but they are easily fixed with CA and then stronger than before.
+Strong impacts may break the motor struts, but they are easily fixed with CA and then stronger than before. Check out the [Parametric Toothpick Frame](https://github.com/vsergeev/3d-parametric-toothpick) and [Parametric Whoop Canopy](https://github.com/vsergeev/3d-parametric-whoop-canopy) projects for more durable designs.
 
 **Base Designs**
 
